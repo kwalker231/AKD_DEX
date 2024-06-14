@@ -24,6 +24,15 @@ This repository contains the source code for a decentralized exchange (Dex) and 
 
 These smart contracts are deployed on the Polygon network (specifically the Polygon Amoy Testnet).
 
+### Example Deployments
+
+- **Dex.sol**: An example of the deployed `Dex.sol` contract can be found [here](https://www.oklink.com/amoy/address/0x2C56B6A6D20f3919294C8269254D45D6a7E64E68).
+- **DexToken.sol**: The native token DXTK has been deployed with the following details:
+  - **Token Name**: DX-token
+  - **Symbol**: DXTK
+  - **Token Address**: [0x43f507be49443683e0f7c4848f04ff9554b08783](https://www.oklink.com/amoy/address/0x43f507be49443683e0f7c4848f04ff9554b08783)
+
+
 ## Usage
 
 1. **Clone the Repository:**
